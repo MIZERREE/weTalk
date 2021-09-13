@@ -46,7 +46,6 @@ public class MessageAdapter extends RecyclerView.Adapter {
         } catch (JSONException e) {
             e.printStackTrace();
         }
-
         return -1;
     }
 
